@@ -52,7 +52,7 @@ Spark-Crossdata compatibility with Spark
 ========================================
 | Crossdata       | Spark	   | 
 |---	|---	|
-| 1.2.2           | 1.5.2          | 
-| 1.2.1           | 1.5.2          | 
+| 1.2.X           | 1.5.2          | 
+
 
 
